@@ -1,2 +1,2 @@
 # chipSEQ_QC
-Bioinformatics tools for evaluating the quality of chromatin-immunoprecipitation sequencing experiments
+Bioinformatics tool for evaluating the quality of chromatin-immunoprecipitation sequencing experiments
