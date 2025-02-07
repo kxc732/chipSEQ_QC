@@ -1,0 +1,5 @@
+# strand cross correlation metrics
+# reads in peaks
+# total number of reads 
+# recommendations for narrowPeak and broadPeak params (intelligene systems) 
+# ML (QC)
